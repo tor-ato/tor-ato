@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clxycfx0r364201p4u71d08oi/stats?cursusId=28&coalitionId=62" alt="tkitahar's 42 stats" /></a>
+
 
 
 <!--
